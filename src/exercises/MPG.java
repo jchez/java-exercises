@@ -22,3 +22,5 @@ public class MPG {
         System.out.println("Your car gets " + mpg + " miles per gallon.");
     }
 }
+
+// ignoreCase: true;
